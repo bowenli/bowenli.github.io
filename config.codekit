@@ -20,6 +20,31 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/page.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/page.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/page.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/page.scss",
+		"outputAbbreviatedPath": "\/css\/page.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -45,6 +70,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/curriculetcase.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/curriculetcase.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/img\/bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52,6 +86,147 @@
 		"initialSize": 132778,
 		"inputAbbreviatedPath": "\/img\/bg.jpg",
 		"outputAbbreviatedPath": "\/img\/bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/assignments-modal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35696,
+		"inputAbbreviatedPath": "\/img\/curriculet\/assignments-modal.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/assignments-modal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/curri-info-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273239,
+		"inputAbbreviatedPath": "\/img\/curriculet\/curri-info-page.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/curri-info-page.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/front-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 731638,
+		"inputAbbreviatedPath": "\/img\/curriculet\/front-page.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/front-page.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/curriculet\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/curriculet\/iPad1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319515,
+		"inputAbbreviatedPath": "\/img\/curriculet\/iPad1.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/iPad1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/iphone-screens.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159565,
+		"inputAbbreviatedPath": "\/img\/curriculet\/iphone-screens.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/iphone-screens.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/licenses.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37312,
+		"inputAbbreviatedPath": "\/img\/curriculet\/licenses.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/licenses.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/screen_reader_Annotation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 239528,
+		"inputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Annotation.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Annotation.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/screen_reader_OE - Overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46914,
+		"inputAbbreviatedPath": "\/img\/curriculet\/screen_reader_OE - Overlay.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/screen_reader_OE - Overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/screen_reader_Question Quiz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73895,
+		"inputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Question Quiz.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Question Quiz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/screen_reader_Reader.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119220,
+		"inputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Reader.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/screen_reader_Reader.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/store-filters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87062,
+		"inputAbbreviatedPath": "\/img\/curriculet\/store-filters.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/store-filters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/curriculet\/wireframe-_-my-library.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 265642,
+		"inputAbbreviatedPath": "\/img\/curriculet\/wireframe-_-my-library.png",
+		"outputAbbreviatedPath": "\/img\/curriculet\/wireframe-_-my-library.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -158,6 +333,105 @@
 		"initialSize": 238,
 		"inputAbbreviatedPath": "\/img\/new-tab.png",
 		"outputAbbreviatedPath": "\/img\/new-tab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_d1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117375,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_d1.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_d1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_d2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56569,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_d2.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_d2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_d3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67478,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_d3.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_d3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_d4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32997,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_d4.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_d4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_d5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123171,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_d5.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_d5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_flow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 572753,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_flow.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_flow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_intro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 525488,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_intro.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_intro.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_research.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_research.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_research.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/p\/c_d_sketch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/p\/c_d_sketch.png",
+		"outputAbbreviatedPath": "\/img\/p\/c_d_sketch.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
