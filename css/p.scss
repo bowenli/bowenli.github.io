@@ -1,0 +1,85 @@
+.page {
+  .header .navigation, footer .navigation {
+    margin: 0 auto;
+    width: 780px;
+  }
+
+
+  section {
+    margin: 0 auto 4em;
+    width: 780px;
+    overflow: hidden;
+
+    .gutter {
+      float: left;
+      min-height: 5px;
+      width: 140px;
+
+      color: #666;
+      text-transform: uppercase;
+      font-size: 0.833em;
+      font-weight: 500;
+      line-height: 1.6em;
+
+    }
+
+    .content {
+      margin-left: 160px;
+      width: 620px;
+
+
+      .description {
+        margin-top: 0;
+
+        ul, li {
+          list-style-type: circle;
+          margin-left: 25px;
+          line-height: 1.6em;
+        }
+      }
+    }
+
+    p {
+      margin-bottom: 1.5em;
+    }
+
+    .pagetitle {
+      font-size: 2em;
+    }
+
+
+
+
+
+  }
+
+
+  .nudge {
+    height: 100px;
+  }
+
+
+
+/* Slick Slideshow */
+.slideshow {
+  width: 620px;
+}
+.pimage {
+  img {
+    margin: 0 auto;
+    max-width: 618px;
+    max-height: 413px;
+    border: 1px solid #999;
+  }
+}
+
+.slick-slider {
+  background-color: #f3f3f3;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+}
+
+}
