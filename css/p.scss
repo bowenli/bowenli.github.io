@@ -45,6 +45,7 @@
 
     .pagetitle {
       font-size: 2em;
+      line-height: 2em;
     }
 
 
@@ -58,6 +59,12 @@
     height: 100px;
   }
 
+/* Non-Slideshow Images */
+.pimage.nonslide {
+  >div {
+    margin-bottom: 2.5em;
+  }
+}
 
 
 /* Slick Slideshow */
