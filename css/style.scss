@@ -47,7 +47,7 @@ table {
 body {
   line-height: 1;
   font-size: 16px;
-  font-family: "proxima-nova", "helvetica neue", helvetica, arial, san-serif;
+  font-family: "proxima-nova", "Proxima Nova", "helvetica neue", helvetica, arial, san-serif;
   font-weight: 200;
   min-width: 600px;
   background-color: #fafafa;
@@ -100,42 +100,15 @@ a {
     height: 72px;
     top: 28px;
 
+     .logo {
+        position: absolute;
+      }
+
+    .menu {
+      position: absolute;
+      right: 0;
+    }
   }
-
-  .logo {
-    position: absolute;
-    width: 40%;
-    height: 100%;
-  }
-
-  .menu {
-    position: absolute;
-    right: 0;
-  }
-
-}
-
-.hero {
-  margin: 0 auto 72px;
-  /* Can I make this responsive in the h-direction as well? */
-  padding-top: 144px;
-  height: 400px;
-  /*background: #e6e6e6;*/
-  background-image: url('../img/bg.jpg');
-  background-position: fixed;
-  background-size: 100%; //propotional resize
-  background-repeat: no-repeat;
-  /*background-color:  #7D8EA1;*/
-
-
-  color: white;
-  text-shadow: 1px 1px black;
-  font-size: 2.25em;
-
-  p {
-    margin-bottom: 1.2em;
-  }
-
 }
 
 
@@ -144,15 +117,9 @@ section {
   overflow: auto;
   margin-bottom: 5em;
 
-  a {
-    color: #ef9713;
-    text-decoration: none;
-    font-weight: 400;
-  }
-
   p {
     line-height: 1.65em;
-    margin-bottom: 1.45em;
+    margin-bottom: 0.45em;
   }
 
   .title {
@@ -196,24 +163,71 @@ section {
 
   }
 
-// This is for https://trello.com/c/9jTcropA/15-homepage-hover-over-images-does-a-semi-transparent-overlay
+      // This is for https://trello.com/c/9jTcropA/15-homepage-hover-over-images-does-a-semi-transparent-overlay
 
-//  .image:after {
-//    content: '\A';
-//    position: absolute;
-//    width: 100%; height:100%;
-//    top:0; left:0;
-//    background:rgba(0,0,0,0.6);
-//    opacity: 1;
-//    transition: all 1s;
-//    -webkit-transition: all 1s;
-//  }
+      //  .image:after {
+      //    content: '\A';
+      //    position: absolute;
+      //    width: 100%; height:100%;
+      //    top:0; left:0;
+      //    background:rgba(0,0,0,0.6);
+      //    opacity: 1;
+      //    transition: all 1s;
+      //    -webkit-transition: all 1s;
+      //  }
 
-//  .image:hover:after {
-//
-//  }
+      //  .image:hover:after {
+      //
+      //  }
 
+} // section
+
+
+
+.home {
+
+  .logo {
+    transition: all 0.4s ease;
+    cursor: default;
+    &:hover {
+    }
+  }
+  .seeproject {
+    margin: 1em 0 0;
+
+    a {
+      padding: 10px 20px;
+      border: 1px solid #ef9713;
+      border-radius: 25px;
+
+      color: #ef9713;
+      text-decoration: none;
+      font-weight: 400;
+
+      &:hover {
+        color: #fff;
+        background-color: #ef9713;
+        transition:all .1s linear;
+      }
+    }
+  }
 }
+
+
+
+
+.tags {
+  span {
+    display: inline-block;
+    margin: 6px 2px;
+    border-radius: 3px;
+    background-color: #e6e6e6;
+    padding: 10px 12px;
+    font-size: 0.833em;
+    color: #666;
+  }
+}
+
 
 .nudge {
   height: 10px;

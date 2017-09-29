@@ -15,11 +15,11 @@
       min-height: 5px;
       width: 140px;
 
-      color: #666;
+      color: #858793;
       text-transform: uppercase;
       font-size: 0.833em;
       font-weight: 500;
-      line-height: 1.6em;
+      line-height: 2em;
 
     }
 
@@ -32,14 +32,20 @@
         margin-top: 0;
 
         ul, li {
+          font-family: Georgia, Times;
           list-style-type: circle;
+          margin-bottom: 1.2em;
           margin-left: 25px;
-          line-height: 1.6em;
+          line-height: 2em;
         }
       }
     }
 
     p {
+    font-family: Georgia;
+    font-weight: 300;
+    color: #333;
+    line-height: 2em;
       margin-bottom: 1.5em;
     }
 
@@ -48,6 +54,30 @@
       line-height: 2em;
     }
 
+    a {
+      color: #ef9713;
+      text-decoration: none;
+    }
+
+
+
+  .bottomcontact {
+    a {
+      padding: 10px 20px;
+      border: 1px solid #ef9713;
+      border-radius: 25px;
+
+      color: #ef9713;
+      text-decoration: none;
+      font-weight: 400;
+
+      &:hover {
+        color: #fff;
+        background-color: #ef9713;
+        transition:all .1s linear;
+      }
+    }
+  }
 
 
 
