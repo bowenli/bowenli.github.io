@@ -56,31 +56,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/css\/page.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/page.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/css\/page.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/page.scss",
-		"outputAbbreviatedPath": "\/css\/page.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -115,15 +90,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/curriculetcase.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/curriculetcase.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/hearsay.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -132,17 +98,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/img\/bg.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 132778,
-		"inputAbbreviatedPath": "\/img\/bg.jpg",
-		"outputAbbreviatedPath": "\/img\/bg.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/img\/curriculet\/assignments-modal.png": {
 		"fileType": 32768,
@@ -747,39 +702,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/curriculet1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85016,
-		"inputAbbreviatedPath": "\/img\/curriculet1.png",
-		"outputAbbreviatedPath": "\/img\/curriculet1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/curriculet3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 214293,
-		"inputAbbreviatedPath": "\/img\/curriculet3.png",
-		"outputAbbreviatedPath": "\/img\/curriculet3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/hearsay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 133536,
-		"inputAbbreviatedPath": "\/img\/hearsay.png",
-		"outputAbbreviatedPath": "\/img\/hearsay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/hearsay\/contacts.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -976,17 +898,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/hss.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 185350,
-		"inputAbbreviatedPath": "\/img\/hss.png",
-		"outputAbbreviatedPath": "\/img\/hss.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -996,13 +907,66 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/microsoft.png": {
+	"\/img\/index\/curriculet1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85016,
+		"inputAbbreviatedPath": "\/img\/index\/curriculet1.png",
+		"outputAbbreviatedPath": "\/img\/index\/curriculet1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/curriculet3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214293,
+		"inputAbbreviatedPath": "\/img\/index\/curriculet3.png",
+		"outputAbbreviatedPath": "\/img\/index\/curriculet3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/hearsay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133536,
+		"inputAbbreviatedPath": "\/img\/index\/hearsay.png",
+		"outputAbbreviatedPath": "\/img\/index\/hearsay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/index\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/index\/microsoft.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 478705,
-		"inputAbbreviatedPath": "\/img\/microsoft.png",
-		"outputAbbreviatedPath": "\/img\/microsoft.png",
+		"inputAbbreviatedPath": "\/img\/index\/microsoft.png",
+		"outputAbbreviatedPath": "\/img\/index\/microsoft.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/index\/zangzing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275547,
+		"inputAbbreviatedPath": "\/img\/index\/zangzing.png",
+		"outputAbbreviatedPath": "\/img\/index\/zangzing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1060,13 +1024,33 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/new-tab.png": {
+	"\/img\/old\/hss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185350,
+		"inputAbbreviatedPath": "\/img\/old\/hss.png",
+		"outputAbbreviatedPath": "\/img\/old\/hss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/old\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/old\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/old\/new-tab.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 238,
-		"inputAbbreviatedPath": "\/img\/new-tab.png",
-		"outputAbbreviatedPath": "\/img\/new-tab.png",
+		"inputAbbreviatedPath": "\/img\/old\/new-tab.png",
+		"outputAbbreviatedPath": "\/img\/old\/new-tab.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1254,17 +1238,6 @@
 		"initialSize": 33980,
 		"inputAbbreviatedPath": "\/img\/p\/export\/c_d_d5a.png",
 		"outputAbbreviatedPath": "\/img\/p\/export\/c_d_d5a.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/zangzing.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 665059,
-		"inputAbbreviatedPath": "\/img\/zangzing.png",
-		"outputAbbreviatedPath": "\/img\/zangzing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1517,7 +1490,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "bowenli.github.io",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_yellow"
 	},
 "projectSettings": {
